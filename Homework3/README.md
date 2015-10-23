@@ -1,4 +1,6 @@
 Homework 3:	HTML and CSS Exercise
+
+Imitate the image hw3.png
   
 Objectives:
 
